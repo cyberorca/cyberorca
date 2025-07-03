@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Doni Kuntoro and I'm a Web Developer, from Indonesia</h2>
+<h2 align="left">Hi 👋! I'm Doni Kuntoro</h2>
 
 ###
 
